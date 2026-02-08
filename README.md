@@ -1,4 +1,4 @@
-e# CP Mansoura
+# CP Mansoura
 
 Competitive programming solutions for Mansoura University problem sheets.
 
