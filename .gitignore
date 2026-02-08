@@ -1,0 +1,40 @@
+# Compiled files
+*.exe
+*.out
+*.o
+*.bin
+*.dSYM/
+a.out
+
+# IDE
+.vscode/
+.idea/
+.cph/
+
+# macOS
+.DS_Store
+
+# Build
+build/
+CMakeLists.txt
+
+# Test files
+input.txt
+output.txt
+
+# Binaries
+*_Fast_power
+*_Weird_Algorithm
+*_Apple_Division
+*_Creating_Strings
+*_maximum_path_sum
+*_N_Queens
+*_Chessboard_and_Queens
+*_Enumerate_Sequences
+*_Penalty
+*_Preparing_Olympiad
+*_Product
+N-Queens
+Recursion
+lab_task
+liat
