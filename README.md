@@ -1,4 +1,4 @@
-# CP Mansoura
+e# CP Mansoura
 
 Competitive programming solutions for Mansoura University problem sheets.
 
@@ -31,6 +31,18 @@ Recursion-backtracking/
  | [Level 1 - Phase 1](https://vjudge.net/group/level_one_public_group)
  | [Level 2 - Phase 2](https://vjudge.net/group/lvl1_phase_two_public_group)
  | [ICPC Mansoura Channel](https://www.youtube.com/@ICPCMansouraCommunity)
+
+ ## Favorite Extensions
+
+### VS Code
+- **[Competitive Programming Helper (cph)](https://github.com/agrawal-d/cph)** - Test & submit directly from VS Code
+- **[C/C++ Snippets](https://marketplace.visualstudio.com/items?itemName=hars.CppSnippets)** - Fast code templates
+
+- 
+
+### Chrome
+- **[Codeforces Enhancer](https://chrome.google.com/webstore/detail/codeforces-enhancer/ocmandagmgmkcplckgnfgaokpgkfenmp)** - Better CF experience
+- **[Competitive Companion](https://chrome.google.com/webstore/detail/competitive-companion/cjnmckjndlpiamhfimnnjmnckgghkjbl)** - Parse problems to CPH
 
 ## Notes
 
