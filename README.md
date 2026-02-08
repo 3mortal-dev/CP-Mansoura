@@ -9,20 +9,29 @@ Competitive programming solutions for Mansoura University problem sheets.
 ## Structure
 
 ```
-Recursion-backtracking/
-├──A_A_Recursive_Function.cpp
-├──B_3_N_1_Series.cpp
-├──C_Fast_power.cpp
-├──D_Weird_Algorithm.cpp
-├──E_Apple_Division.cpp
-├──F_Creating_Strings.cpp
-├──G_The_maximum_path_sum.cpp
-├──H_N_Queens.cpp
-├──I_Chessboard_and_Queens.cpp
-├──J_Enumerate_Sequences.cpp
-├──K_Penalty.cpp
-├──L_Preparing_Olympiad.cpp
-└──M_Product.cpp
+CP-Mansoura/
+├── README.md
+├── .gitignore
+├── snippets/
+│   ├── cpp.json                    # VS Code
+│   ├── 3mortal-snippets.json       # Extension
+│   └── README.md
+└── Recursion-backtracking/
+    ├── README.md
+    ├──A_A_Recursive_Function.cpp
+│   ├──B_3_N_1_Series.cpp
+│   ├──C_Fast_power.cpp
+│   ├──D_Weird_Algorithm.cpp
+│   ├──E_Apple_Division.cpp
+│   ├──F_Creating_Strings.cpp
+│   ├──G_The_maximum_path_sum.cpp
+│   ├──H_N_Queens.cpp
+│   ├──I_Chessboard_and_Queens.cpp
+│   ├──J_Enumerate_Sequences.cpp
+│   ├──K_Penalty.cpp
+│   ├──L_Preparing_Olympiad.cpp
+|   └──M_Product.cpp
+
 ```
 
 ## Links
@@ -36,7 +45,7 @@ Recursion-backtracking/
 
 ### VS Code
 - **[Competitive Programming Helper (cph)](https://github.com/agrawal-d/cph)** - Test & submit directly from VS Code
-- **[C/C++ Snippets](https://marketplace.visualstudio.com/items?itemName=hars.CppSnippets)** - Fast code templates
+- **[C/C++ Snippets](https://marketplace.visualstudio.com/items?itemName=tahabasri.snippets)** - For code templates (u can import my snippets from /snippets/3mortal-snippets.json)
 
 - 
 
