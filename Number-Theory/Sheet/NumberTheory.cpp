@@ -159,11 +159,30 @@ void linear_sieve(int n)
   }
 }
 
+std::vector<ll> SPF_vector;
+void SPF(ll n)
+{
+  SPF_vector.resize(n + 1);
+  for (ll i = 0; i <= n; ++i)
+    SPF_vector[i] = i;
+  for (ll i = 2; i <= n; ++i)
+  {
+    if (SPF_vector[i] == i)
+    {
+      for (ll j = i * i; j <= n; j += i)
+      {
+        if (SPF_vector[j] == j)
+          SPF_vector[j] = i;
+      }
+    }
+  }
+}
+
 int main()
 {
-  linear_sieve(40);
+  SPF(40);
 
   for (int i = 0; i < 41; ++i)
-    std::cout << sieve_vector[i] << endl;
+    std::cout << SPF_vector[i] << endl;
   return 0;
 }
