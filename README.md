@@ -36,9 +36,8 @@ CP-Mansoura/
 │   ├── O_Gold_Rush.cpp
 │   └── P_Skill_Up.cpp
 └── Number-Theory/
-    ├── NumberTheory.cpp                      # Session template/notes
     ├── Session Algorithms/
-    │   └── NumberTheory.cpp
+    │   └── NumberTheory.cpp      # Session template/notes
     └── Session Problems/
     │   ├── A_Almost_Prime.cpp
     │   ├── B_T_primes.cpp
